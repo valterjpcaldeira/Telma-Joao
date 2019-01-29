@@ -1,4 +1,4 @@
-# Telma & João [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![forthebadge](http://forthebadge.com/badges/built-by-hipsters.svg)](http://forthebadge.com)
+# Telma & João [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 
 ![alt text](https://lh3.googleusercontent.com/fqerOjj9vBL9qeOUlBF3gUsK1C0KMFL5sH4abCcZcavnysbnWHT3Us_uW_jsr0d0t5E=w300-rw)
 
